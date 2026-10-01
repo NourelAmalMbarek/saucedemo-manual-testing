@@ -18,3 +18,27 @@ The objective of this project is to verify the functionality of the main feature
 
 SauceDemo is a web-based e-commerce application that allows users to log in, browse products, view product details, sort products, add and remove products from the shopping cart, and complete a checkout process.
 
+4. Scope
+4.1 In Scope
+The following functionalities will be covered by this testing project:
+
+User login
+Product listing
+Product details
+Product sorting
+Adding and removing products from the shopping cart
+Shopping cart item count
+Checkout information
+Required field validation
+Order completion
+
+4.2 Out of Scope
+
+Performance testing
+Security testing
+Accessibility testing
+Mobile application testing
+Advanced cross-browser compatibility testing
+API testing
+   
+
