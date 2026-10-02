@@ -40,5 +40,40 @@ Accessibility testing
 Mobile application testing
 Advanced cross-browser compatibility testing
 API testing
+
+## 5. Test Types
+
+The following test types will be performed during this testing project:
+
+### 5.1 Functional Testing
+
+Functional testing will be performed to verify that the main features of the SauceDemo application behave according to their expected behavior.
+
+The following functionalities will be tested:
+
+* User login
+* Product browsing and sorting
+* Product details
+* Shopping cart operations
+* Checkout process
+* Order completion
+
+### 5.2 UI Testing
+
+UI testing will be performed to verify the application's user interface and user interactions, including:
+
+* Buttons and interactive elements
+* Product information display
+* Navigation between pages
+* Error and validation messages
+
+### 5.3 Positive Testing
+
+Positive testing will be performed using valid inputs and expected user actions to verify that the application behaves correctly under normal conditions.
+
+### 5.4 Negative Testing
+
+Negative testing will be performed using invalid, missing, or incorrect inputs to verify that the application handles unexpected or invalid user actions appropriately.
+
    
 
