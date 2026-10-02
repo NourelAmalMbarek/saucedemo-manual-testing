@@ -86,6 +86,39 @@ Negative testing will be performed using invalid, missing, or incorrect inputs t
 | Browser Version       | 154.0.8037.58 (64-bit)    |
 | Device                | Desktop                   |
 
+## 7. Test Data
+
+The following test data will be used during the testing activities.
+
+### 7.1 Login Data
+
+* Valid username and password provided by the SauceDemo demo application
+* Invalid username
+* Invalid password
+* Empty username
+* Empty password
+
+### 7.2 Product Data
+
+Products available in the SauceDemo application will be used to test:
+
+* Product listing
+* Product details
+* Product sorting
+* Adding products to the cart
+* Removing products from the cart
+
+### 7.3 Checkout Data
+
+Valid checkout information will be used for positive test scenarios:
+
+* First name
+* Last name
+* Postal/ZIP code
+
+Empty or missing checkout fields will be used for negative test scenarios.
+
+
 
    
 
