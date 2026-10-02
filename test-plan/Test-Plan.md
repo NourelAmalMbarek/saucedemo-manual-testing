@@ -118,6 +118,15 @@ Valid checkout information will be used for positive test scenarios:
 
 Empty or missing checkout fields will be used for negative test scenarios.
 
+## 8. Entry Criteria
+
+Test execution can begin when the following conditions are satisfied:
+
+* The SauceDemo web application is accessible.
+* The test environment is available and configured.
+* The test data required for execution is available.
+* The test cases have been reviewed and are ready for execution.
+* The testing scope has been defined.
 
 
    
