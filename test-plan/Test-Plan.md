@@ -75,5 +75,17 @@ Positive testing will be performed using valid inputs and expected user actions 
 
 Negative testing will be performed using invalid, missing, or incorrect inputs to verify that the application handles unexpected or invalid user actions appropriately.
 
+## 6. Test Environment
+
+| Environment Component | Details                   |
+| --------------------- | ------------------------- |
+| Application           | SauceDemo Web Application |
+| Environment Type      | Web                       |
+| Operating System      | Windows 10                |
+| Browser               | Google Chrome             |
+| Browser Version       | 154.0.8037.58 (64-bit)    |
+| Device                | Desktop                   |
+
+
    
 
