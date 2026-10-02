@@ -128,6 +128,16 @@ Test execution can begin when the following conditions are satisfied:
 * The test cases have been reviewed and are ready for execution.
 * The testing scope has been defined.
 
+## 9. Exit Criteria
+
+Test execution can be considered complete when:
+
+* All planned test cases have been executed.
+* The results of the executed test cases have been recorded.
+* Failed test cases have been analyzed.
+* Identified defects have been documented and reported.
+* Test execution results have been summarized.
+* The Test Summary Report has been completed.
 
    
 
